@@ -2,7 +2,7 @@
 
 Hi! If you are reading this is because we would love you to be part of the Engineering team at
 Draftea and keep moving forward in the coding challenge. We ask you to please share your private
-project with @joecohens @danteay @peopledraftea when you have finished it.
+project with @joecohens @peopledraftea when you have finished it.
 
 ## The Problem
 
