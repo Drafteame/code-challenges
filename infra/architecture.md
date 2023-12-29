@@ -1,4 +1,6 @@
-# Draftea
+# Architecture challenge
+
+Imagina que estás diseñando el sistema de procesamiento de eventosDraftea.
 
 Cada vez que un jugador de un partido realiza una acción, esta acción se contabiliza en puntos fantasy y a aquellos usuarios que hayan seleccionado al jugador sumarán puntos en su alineación.
 
